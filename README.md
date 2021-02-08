@@ -21,3 +21,19 @@ In Project level gradle-->
     dependencies {
             implementation 'com.github.SanthoshMKunthe:Multiple-Logs-Android:1.4.5'
     }
+
+import live.mkunthe.simplelogging.smkl;
+
+smkl.a("All logs related to user email,password etc. . ."); in different activities like Splash,Login,Main etc and when you filter in logcat you will get all logs accross different activities. . .
+
+smkl.b("All logs related to database connection. . .");
+
+smkl.c("All logs related to a particular bug. . .");
+
+.
+
+.
+
+.
+
+smkl.j("All logs related to a particular issue. . .");
