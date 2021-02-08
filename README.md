@@ -1,4 +1,6 @@
 # Use Case
+
+Logs from different Activities https://github.com/SanthoshMKunthe/Multiple-Logs-Android/blob/master/OUTPUT.png by using same LOGCAT FILTER key. . .
 We all use debug logs. . . But I hate to type capital 'L' while typing 'Log.d' and also TAG remains same for that particular activity. . .
 
 If I want to see Logs across different activities then filtering Logs based on TAG is not useful as TAG will only show me Log of one particular activity. . .
