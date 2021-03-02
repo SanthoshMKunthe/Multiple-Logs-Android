@@ -1,3 +1,5 @@
+#Tract same issue from different activities, under one logcat filter
+
 # Use Case
 
 Logs from different Activities https://github.com/SanthoshMKunthe/Multiple-Logs-Android/blob/master/OUTPUT.png by using same LOGCAT FILTER key. . .
@@ -38,6 +40,7 @@ smkl.c("All logs related to a particular bug. . .");
 
 .
 
-smkl.j("All logs related to a particular issue. . .");
+smkl.j("All logs related to a particular issue. . . From across different activities. . . Under one Logcat Filter. . .");
 
-See it here https://github.com/SanthoshMKunthe/Multiple-Logs-Android/blob/master/OUTPUT.png
+Screenshot --> https://github.com/SanthoshMKunthe/Multiple-Logs-Android/blob/master/OUTPUT.png
+#Tract same issue from different activities, under one logcat filter
