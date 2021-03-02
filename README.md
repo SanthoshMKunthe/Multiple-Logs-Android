@@ -39,3 +39,5 @@ smkl.c("All logs related to a particular bug. . .");
 .
 
 smkl.j("All logs related to a particular issue. . .");
+
+See it here https://github.com/SanthoshMKunthe/Multiple-Logs-Android/blob/master/OUTPUT.png
